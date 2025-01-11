@@ -1,6 +1,12 @@
 # Credit Scoring Project
 
-This README describes the steps taken for data preprocessing, training machine learning models, and evaluating their performance for a credit scoring project. If you want to read the description in Russian, open README_ru or credit_scoring.ipynb.
+---
+
+**If you want to read the description in Russian, open README_ru or credit_scoring.ipynb**
+
+---
+
+This README describes the steps taken for data preprocessing, training machine learning models, and evaluating their performance for a credit scoring project.
 
 ---
 
